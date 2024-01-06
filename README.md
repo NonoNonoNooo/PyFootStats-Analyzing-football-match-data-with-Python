@@ -1,4 +1,4 @@
-#PyFootStats: Analyzing soccer match data with Python
+# PyFootStats: Analyzing soccer match data with Python
 
 This project focuses on analyzing soccer match data using Python. We use a variety of libraries and tools to collect, process, and analyze soccer match data to draw interesting conclusions.
 
@@ -10,7 +10,7 @@ This project focuses on analyzing soccer match data using Python. We use a varie
 
 ## CVS files on Google Drive
 
-Please note that due to file size limitations on GitHub, CVS files with data on football matches are hosted on Google Drive. You can find the files at the following link: [Link to Google Drive] (https://drive.google.com/drive/folders/1DFO5vsLx5iYciBw1J3Zd9KHPKaZrhK58?usp=drive_link).
+Please note that due to file size limitations on GitHub, CVS files with data on football matches are hosted on Google Drive. You can find the files at the following link: [Link to Google Drive](https://drive.google.com/drive/folders/1DFO5vsLx5iYciBw1J3Zd9KHPKaZrhK58?usp=drive_link).
 
 
 ## How to get started.
